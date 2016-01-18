@@ -3,7 +3,9 @@ Animates DOM element with numbered value from zero to itself
 
 Usage:
 
-$(".selector-with-number").juianimatednumber(options);
+$(".selector-with-number").juianimatednumber({
+        duration: 3000
+    });
 
 Author:
 
